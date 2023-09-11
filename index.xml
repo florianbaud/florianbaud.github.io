@@ -8,23 +8,21 @@
     <language>en-us</language>
     <copyright>© Copyright notice</copyright><atom:link href="https://florianbaud.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
+      <title>About 🛰️</title>
       <link>https://florianbaud.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://florianbaud.github.io/about/</guid>
-      <description></description>
+      <description>I&amp;rsquo;m doing a PhD in collaboration with Visiativ and the laboratory LIRIS. My research is about conversational agents and multi-document summarization systems. You can check my work on the publications page of this site.</description>
     </item>
     
     <item>
-      <title>Publications</title>
+      <title>Publications 📄</title>
       <link>https://florianbaud.github.io/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://florianbaud.github.io/publications/</guid>
-      <description>2023 Florian Baud and Alexandre Aussem. Répondre aux requêtes des étudiants avec un agent conversationnel à mémoire supervisée. Revue des Nouvelles Technologies de l’Information, Extraction et Gestion des Connaissances, RNTI-E-39:631–632, 2023.
-Florian Baud and Alex Aussem. Answering student queries with a supervised memory conversational agent. The International FLAIRS Conference Proceedings, 36(1), May 2023.
-Florian Baud and Alexandre Aussem. Résumé automatique multi-documents guidé par une base de résumés similaires. In Christophe Servan and Anne Vilnat, editors, 18e Conférence en Recherche d’Information et Applications – 16e Rencontres Jeunes Chercheurs en RI – 30e Conférence sur le Traitement Automatique des Langues Na- turelles – 25e Rencontre des Étudiants Chercheurs en Informatique pour le Traitement Automatique des Langues, pages 19–27, Paris, France, 2023.</description>
+      <description>2023 Florian Baud and Alexandre Aussem. Répondre aux requêtes des étudiants avec un agent conversationnel à mémoire supervisée. Revue des Nouvelles Technologies de l’Information, Extraction et Gestion des Connaissances, RNTI-E-39:631–632, 2023. Florian Baud and Alex Aussem. Answering student queries with a supervised memory conversational agent. The International FLAIRS Conference Proceedings, 36(1), May 2023. Florian Baud and Alexandre Aussem. Résumé automatique multi-documents guidé par une base de résumés similaires. In Christophe Servan and Anne Vilnat, editors, 18e Conférence en Recherche d’Information et Applications – 16e Rencontres Jeunes Chercheurs en RI – 30e Conférence sur le Traitement Automatique des Langues Na- turelles – 25e Rencontre des Étudiants Chercheurs en Informatique pour le Traitement Automatique des Langues, pages 19–27, Paris, France, 2023.</description>
     </item>
     
   </channel>
